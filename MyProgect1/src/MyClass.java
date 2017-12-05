@@ -1,6 +1,8 @@
 public class MyClass {
+    //final = const
+    public static final double PI = 3.14;
 
     public static void main(String[] args){
-       Vehicle.horn();
+        System.out.println(PI);
     }
 }
