@@ -1,8 +1,5 @@
 package Samles;
 
 public class Animal {
-
-    public Animal() {
-        System.out.println("AAAAAA");
-    }
+    protected int dd = 0;
 }
