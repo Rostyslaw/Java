@@ -1,5 +1,7 @@
 package Samles;
 
 public class Animal {
-    protected int dd = 0;
+    public void makeSound(){
+        System.out.println("Grr...");
+    }
 }
